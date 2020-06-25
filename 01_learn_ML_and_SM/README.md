@@ -349,6 +349,8 @@ Code兄弟つかうとかなら、何かしないといけないかも
 
 # 6. アンケート
 
+次回はSageMaker Studio & Autopilotの予定です。
+
 SageMaker勉強会の改善のため、下記のアンケートにご協力お願いいたします。
 
 - [アンケート](https://forms.gle/pu1Jzr8BCn1x77fj7)
