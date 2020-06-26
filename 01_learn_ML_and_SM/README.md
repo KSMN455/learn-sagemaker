@@ -188,7 +188,8 @@ SageMakerの主要な機能の1つ。
 
 Argumented AI
 
-- 知らなくてもよい。
+- あやしい予測結果を人力でレビュー
+- GroundTruthみたいなやつ
 
 ## 2-2. SageMakerは誰が使うのか？
 
