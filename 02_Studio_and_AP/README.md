@@ -66,6 +66,24 @@ SageMaker StudioとSageMaker Autopilotについては[AWS AI/ML@Tokyo #4](https:
 
 SageMaker Stuidoを開くまで実施します。
 
+#### SageMaker Studioの画面を開く
+
+ユーザー名とIAMロールを入力。送信をポチッ。
+
+![画像](img/09.PNG)
+
+#### 待ち
+
+待ちます
+
+![画像](img/10.PNG)
+
+#### 開く
+
+開く
+
+![画像](img/11.PNG)
+
 ### 1-2-2. SageMaker Studio Notebookの利用
 
 LauncherからNotebookを開き、シャットダウンまで実行します。
