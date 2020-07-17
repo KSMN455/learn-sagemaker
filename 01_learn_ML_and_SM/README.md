@@ -322,7 +322,9 @@ MLOps的な話で自動化しようと思うと。。。
 
 >4. ある企業は経営する700店舗のレストランの売上を店舗ごとに予測したい。どのAWSサービスを使うとよいでしょう？
 
-4. 時系列予測といえばForecastだけど、700店舗のデータを個別でForecastで学習させるのか。。。
+4. ~~時系列予測といえばForecastだけど、700店舗のデータを個別でForecastで学習させるのか。。。~~
+    - Forecastでも1つのトレーニングで済みそう
+    　　　　- https://docs.aws.amazon.com/ja_jp/forecast/latest/dg/retail-domain.html
 
 ![img/09.png](img/09.png)
 
